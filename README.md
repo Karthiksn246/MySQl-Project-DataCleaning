@@ -1,5 +1,6 @@
 # Data-cleaning
 Data Cleaning Project - MySQL
+
 **Objective**
 "The goal was to clean, normalize, and transform a raw dataset to prepare it for analysis, ensuring accuracy and consistency in the data."
 
