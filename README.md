@@ -1,4 +1,4 @@
-# Data-cleaning
+# Data-cleaning(MySQL)
 Data Cleaning Project - MySQL
 
 **Objective:**
